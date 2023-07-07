@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzlbbfrog" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hzlbbfrog" />
 
-
+<img src="https://profile-counter.glitch.me/hzlbbfrog/count.svg" /> 
+ <img src="https://visitor-badge.glitch.me/badge?page_id=hzlbbfrog" /> 
