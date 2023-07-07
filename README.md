@@ -13,10 +13,22 @@
 
 # 
 **📜 My poor Github stats** 😭 (I am trying, seriously. 💪)  
-<>
-[![hzl's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzlbbfrog&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![hzl's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzlbbfrog&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hzlbbfrog&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hzlbbfrog" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzlbbfrog" />
+
+#
+<details>
+<summary>
+<b>&#2728 Some repositories you may be interested in:</b>
+</summary>
+<p>
+  <a href="https://github.com/hzlbbfrog/CenWholeNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hzlbbfrog&repo=CenWholeNet"  /> </a>
+  <a href="https://github.com/hzlbbfrog/BGCrack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hzlbbfrog&repo=BGCrack"  /> </a>
+</p>
+</details>
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hzlbbfrog)
@@ -36,7 +48,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hzlbbfrog&repo=CenWholeNet)](https://github.com/hzlbbfrog/CenWholeNet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hzlbbfrog&repo=BGCrack)](https://github.com/hzlbbfrog/BGCrack)
+
 
 
