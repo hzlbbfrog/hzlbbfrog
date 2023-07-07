@@ -7,8 +7,20 @@
 
 #
 **🌱 Current interests**
+- Computer vision
 - Generative AI
 - Robotics
+
+# 
+**📜 My poor Github stats** 😭 (I am trying, seriously. 💪)  
+<>
+[![hzl's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzlbbfrog&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hzlbbfrog" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzlbbfrog" />
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hzlbbfrog)
+<img alt="GitHub hits" src="https://img.shields.io/github/last-commit/hzlbbfrog/hzlbbfrog?label=profile%20updated&style=flat&color=cfa81c">
 
 
 <!--
@@ -24,12 +36,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![hzl's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzlbbfrog)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzlbbfrog" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hzlbbfrog" />
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hzlbbfrog)
-<img alt="GitHub hits" src="https://img.shields.io/github/last-commit/hzlbbfrog/hzlbbfrog?label=profile%20updated&style=flat&color=cfa81c">
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hzlbbfrog&repo=CenWholeNet)](https://github.com/hzlbbfrog/CenWholeNet)
 
 
