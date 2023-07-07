@@ -22,7 +22,7 @@
 #
 <details>
 <summary>
-<b>&#2728 Some repositories you may be interested in:</b>
+<b>&#10024 Some repositories you may be interested in:</b>
 </summary>
 <p>
   <a href="https://github.com/hzlbbfrog/CenWholeNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hzlbbfrog&repo=CenWholeNet"  /> </a>
