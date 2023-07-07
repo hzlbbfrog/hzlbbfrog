@@ -37,5 +37,6 @@ Here are some ideas to get you started:
 -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hzlbbfrog&repo=CenWholeNet)](https://github.com/hzlbbfrog/CenWholeNet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hzlbbfrog&repo=BGCrack)](https://github.com/hzlbbfrog/BGCrack)
 
 
