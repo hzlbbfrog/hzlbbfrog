@@ -27,6 +27,7 @@
 <p>
   <a href="https://github.com/hzlbbfrog/CenWholeNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hzlbbfrog&repo=CenWholeNet"  /> </a>
   <a href="https://github.com/hzlbbfrog/BGCrack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hzlbbfrog&repo=BGCrack"  /> </a>
+  <a href="https://github.com/hzlbbfrog/CrackSeU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hzlbbfrog&repo=CrackSeU"  /> </a>
 </p>
 </details>
 
