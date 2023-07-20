@@ -2,6 +2,7 @@
 
 - 🔭 I’m pursuing my Ph.D. at [HKUST](https://hkust.edu.hk/). (Break news: HKUST ranks **top 60** in the [QS Ranking](https://www.topuniversities.com/university-rankings))
 - 📫 How to reach me: [![Mail Badge](https://img.shields.io/badge/zl.he@connect.ust.hk-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zl.he@connect.ust.hk "Connect via Email")
+  <a href='https://www.linkedin.com/in/%E8%87%B3%E7%AB%8B-%E4%BD%95-3a7139141/'> <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"> </a>
 - 💬 You are welcome to ask me anything.
 - 🔬 Want to know more? Click here → [![Website Badge](https://img.shields.io/badge/-My_website-5a5a5a?style=flat&logo=vercel&logoColor=white)](https://zl-he.com)
 
@@ -10,6 +11,9 @@
 - Computer vision
 - Generative AI
 - Robotics
+- You can click <a href='https://scholar.google.com/citations?hl=en&user=lrDdoG4AAAAJ' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+</a> to find my publications.
 
 # 
 **📜 My poor Github stats** 😭 (I am trying, seriously. 💪)  
