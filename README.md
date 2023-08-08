@@ -19,7 +19,7 @@
 **📜 My poor Github stats** 😭 (I am trying, seriously. 💪)  
   
 [![hzl's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hzlbbfrog&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hzlbbfrog&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hzlbbfrog&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hzlbbfrog" />
 
@@ -29,9 +29,9 @@
 <b>&#10024 Some repositories you may be interested in:</b>
 </summary>
 <p>
-  <a href="https://github.com/hzlbbfrog/CenWholeNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hzlbbfrog&repo=CenWholeNet"  /> </a>
-  <a href="https://github.com/hzlbbfrog/BGCrack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hzlbbfrog&repo=BGCrack"  /> </a>
-  <a href="https://github.com/hzlbbfrog/CrackSeU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hzlbbfrog&repo=CrackSeU"  /> </a>
+  <a href="https://github.com/hzlbbfrog/CenWholeNet"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hzlbbfrog&repo=CenWholeNet"  /> </a>
+  <a href="https://github.com/hzlbbfrog/BGCrack"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hzlbbfrog&repo=BGCrack"  /> </a>
+  <a href="https://github.com/hzlbbfrog/CrackSeU"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hzlbbfrog&repo=CrackSeU"  /> </a>
 </p>
 </details>
 
