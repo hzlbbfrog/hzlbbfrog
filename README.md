@@ -4,7 +4,7 @@
 - 📫 How to reach me: [![Mail Badge](https://img.shields.io/badge/zl.he@connect.ust.hk-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zl.he@connect.ust.hk "Connect via Email")
   <a href='https://www.linkedin.com/in/%E8%87%B3%E7%AB%8B-%E4%BD%95-3a7139141/'> <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"> </a>
 - 💬 You are welcome to ask me anything.
-- 🔬 Want to know more? Click here → [![Website Badge](https://img.shields.io/badge/-My_website-5a5a5a?style=flat&logo=vercel&logoColor=white)](zl-he.com)
+- 🔬 Want to know more? Click here → [![Website Badge](https://img.shields.io/badge/-My_website-5a5a5a?style=flat&logo=vercel&logoColor=white)](http://zl-he.com)
 
 #
 **🌱 Current interests**
