@@ -25,6 +25,8 @@
 [![hzl's github stats](https://github-readme-stats.vercel.app/api?username=hzlbbfrog&count_private=true&show_icons=true&theme=default)](https://zl-he.com)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hzlbbfrog&layout=compact&langs_count=8)](http://zl-he.com)
 
+[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=hzlbbfrog)](http://zl-he.com)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hzlbbfrog" />
 
 #
