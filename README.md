@@ -10,8 +10,9 @@
 **🌱 Current interests**
 - Computer vision
 - Generative AI
-- Robotics and embodied AI
-- You can click <a href='https://scholar.google.com/citations?hl=en&user=lrDdoG4AAAAJ' target="_blank">
+- Robotics perception and localization
+- Embodied AI
+- You can click my <a href='https://scholar.google.com/citations?hl=en&user=lrDdoG4AAAAJ' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a> to find my publications.
 
