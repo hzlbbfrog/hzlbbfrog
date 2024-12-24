@@ -8,7 +8,7 @@
 
 #
 **🌱 Current interests**
-- Computer vision
+- 2D and 3D Computer vision
 - Generative AI
 - Robotics perception and localization
 - Embodied AI
